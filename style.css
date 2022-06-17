@@ -4,10 +4,6 @@ body {
     color: #333;
 }
 
-section {
-    padding: 20px;
-}
-
 ul {
     display: flex;
 }
@@ -103,7 +99,7 @@ h2{
 }
 
 table{
-    width: 60%;
+    width: 80%;
 }
 table thead{
     background-color: #333;
